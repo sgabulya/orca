@@ -1,0 +1,8 @@
+# Data cleaning ideas and options
+
+    # Whitening filter
+
+# Files in both wav files and spectrogram form 
+
+# Create animation of spectogram and wav
+    Codex - compressing 
